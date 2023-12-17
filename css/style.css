@@ -1,0 +1,4 @@
+ /* Ajuste para el navbar fijo en la parte superior */
+body {
+    padding-top: 56px;
+}

@@ -1,0 +1,40 @@
+body {
+    padding-top: 56px; /* Ajuste para el navbar fijo en la parte superior */
+    background-color: #eaf7ed; /* Color de fondo verde claro */
+}
+
+.navbar {
+    background-color: #4CAF50; /* Color verde para la barra de navegación */
+}
+
+.navbar-brand {
+    color: #ffffff; /* Texto blanco para el enlace de la marca en la barra de navegación */
+}
+
+.navbar-brand img {
+    width: 30px; /* Tamaño de la imagen de la marca */
+    margin-right: 10px;
+}
+
+.navbar-nav .nav-link {
+    color: #ffffff !important; /* Texto blanco para los enlaces de navegación */
+}
+
+section {
+    background-color: #ffffff; /* Fondo blanco para las secciones */
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #4CAF50; /* Color verde para el pie de página */
+    color: #ffffff; /* Texto blanco para el pie de página */
+    text-align: center;
+    padding: 20px;
+}
+
+footer img {
+    width: 50px; /* Tamaño de las imágenes en el pie de página */
+    margin: 0 10px;
+}
